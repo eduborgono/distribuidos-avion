@@ -1,3 +1,13 @@
+# Tarea 2 Sistemas Distribuidos
+|Nombre| Rol|
+|-----|-----|
+|Eduardo Borgoño| 201373525-8 |    
+|Francisca Ramírez| 201373607-6 |
+
+[Pantalla de información](https://github.com/eduborgono/pantalla-informacion) 
+
+[Torre de control](https://github.com/eduborgono/torreControl)
+
 # Requerimientos
 
 Tener instalado python 3.6
